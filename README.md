@@ -12,8 +12,6 @@ Pygame - used to display
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 -  [Coding Challenge #98.3: Quadtree Collisions - Part 3](https://www.youtube.com/watch?v=z0YFFg_nBjw)
 -  [WQuadtree - wiki](https://en.wikipedia.org/wiki/Quadtree)
 
